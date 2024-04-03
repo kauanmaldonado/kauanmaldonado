@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I am Kauan Maldonado, iOS Developer 👋
 
+#### I am an iOS mobile developer at a major Brazilian bank, dedicated to helping people resolve their financial challenges through smartphone technology.
+
+#### I will use this page to put my ideas through code, exploring new challenges to be 1% better everyday!
 <!--
 **kauanmaldonado/kauanmaldonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
